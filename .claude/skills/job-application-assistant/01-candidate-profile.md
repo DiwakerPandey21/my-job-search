@@ -4,70 +4,77 @@ framework_version: 1.1.1
 
 # Candidate Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all sections will be filled with your actual information -->
-
 ## Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_ADDRESS]
-- **Phone:** [YOUR_PHONE]
-- **Email:** [YOUR_EMAIL]
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
-- **GitHub:** [YOUR_GITHUB_URL]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **Constraints:** [YOUR_COMMUTE_OR_LOCATION_CONSTRAINTS]
+- **Name:** Diwaker Pandey
+- **Location:** Phagwara, Punjab, India
+- **Phone:** +91 78708 71950
+- **Email:** diwakerp050@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/diwakerpandey21/
+- **GitHub:** https://github.com/DiwakerPandey21
+- **Status:** B.Tech CSE graduate (LPU, Jun 2026), actively seeking full-time SDE, Full-Stack, and AI Engineer roles
+- **Constraints:** Open to relocation / remote
 
 ### Languages
-<!-- Every language you can work in professionally, with your honest level. Used by the
-Language Gate in 04-job-evaluation.md and by job-scraper/search-queries.md's query-language
-generation. Omit any language you don't actually work in - an undeclared language is treated as
-a hard no, not a gap to smooth over. -->
-
 | Language | Level | Notes |
 |----------|-------|-------|
-| [LANGUAGE] | [LEVEL, e.g. "Native" / "C2" / "B1/B2 (conversational)"] | [optional] |
+| English | Professional working proficiency | Working language |
+| Hindi | Native | Native speaker |
 
 ## Education
 
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
-| [DEGREE] | [YEARS] | [INSTITUTION] | [TOPICS] |
+| B.Tech in Computer Science & Engineering | Aug 2023 - Jun 2026 | Lovely Professional University, Phagwara, Punjab | CGPA: 7.24; DSA, OOP, DBMS, Operating Systems, Computer Networks, System Design |
+| Intermediate (PCM) | 2023 | D.A.V. Public School, Ara | 82% |
+| Matriculation | 2021 | Kendriya Vidyalaya, Coochbehar | 80.6% |
 
 ## Professional Experience
 
-### [JOB_TITLE] - [COMPANY] ([START] - [END])
-[LOCATION]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_1]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_2]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_3]
-
-<!-- Add more roles as needed -->
+### Full-Stack Web Development Intern - Unified Mentor (May 2026 - Aug 2026)
+Remote
+- Built and shipped full-stack features in React, Node.js, and MongoDB across Agile sprints, contributing to on-time delivery every cycle
+- Designed RESTful APIs with Express.js, JWT-based authentication with role-based access control, and standardized error-handling middleware across staging and production
+- Optimized MongoDB query performance through compound indexing and aggregation pipelines; reviewed peer code via a Git feature-branch workflow
 
 ## Independent Projects
-<!-- Projects outside of employment: freelance, open source, personal -->
-- **[PROJECT_NAME]**: [DESCRIPTION]
+- **EDITH - Modular Personal AI Agent & Automation System** (Sep 2026): Python, event-driven architecture, SQLite, provider-agnostic LLM layer. Modular AI agent architecture for natural-language interaction, tool execution, memory, and desktop automation. Governed tool-use framework with risk-tiered permissions, input validation, execution limits, and sandboxed operations. Layered SQLite memory.
+- **SuppSync - AI Supplement Tracker (PWA)** (May 2026): Next.js 14, TypeScript, Tailwind CSS, Supabase, Gemini AI. Production-grade AI PWA for supplement tracking, adherence analytics, personalized health goals. Offline-first service worker with Web Push reminders. Live demo available.
+- **CivicPulse - AI-Powered Smart City & Grievance Portal** (Feb 2026): React, Node.js, Express.js, MongoDB, Gemini AI. Full-stack MERN civic platform with NLP complaint categorization, severity flagging, voice-to-text reporting (Web Speech API, English/Hindi), Leaflet.js maps, Recharts admin dashboard. Deployed on Vercel with CI/CD. Live demo available.
 
 ## Technical Skills
 
 ### Programming & ML
-- **[LANGUAGE]** ([PROFICIENCY]): [FRAMEWORKS_AND_LIBRARIES]
-- [OTHER_SKILLS]
+- **JavaScript (ES2023) / TypeScript**: React 18/19, Next.js 14/15, Node.js, Express.js
+- **Python**: Event-driven architecture, AI agent runtimes, tool-use governance
+- **Databases**: MongoDB, PostgreSQL (Supabase), MySQL, SQLite, Firestore, MS SQL Server
+- **Languages**: Java, C++, C, PHP
 
 ### Domain Expertise
-- [DOMAIN_1]
-- [DOMAIN_2]
+- AI-integrated web applications (Gemini AI, GenKit)
+- AI agent runtimes and governed tool use
+- REST API design, JWT/RBAC auth
+- Data Structures & Algorithms (200+ problems solved)
+- System design fundamentals
 
 ### Software & Tools
-- [TOOL_LIST]
+- Git, GitHub, Postman, Google Cloud, Supabase Edge, Vercel, Netlify, Tailwind CSS, Vite, PWA, WebSockets
+
+## Certifications
+- **Computer Communications** - University of Colorado - 2024
+- **Hardware & Operating Systems** - IBM - 2024
+- **Computer Networking** - Google - 2024
+- **SQL (Intermediate)** - HackerRank - 2024
+- **DSA (Java)** - Cipher Schools - 2025
+- **Cloud Computing** - NPTEL - 2025
+- **Engineering Communication** - Rice University - 2026
 
 ## Publications
-<!-- List peer-reviewed publications, if any -->
-1. [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL]. [DOI_LINK]
+- None
 
 ## Awards
-- [AWARD] - [EVENT] ([YEAR])
+- Ranked 101 of 400 teams - Smart India Hackathon (2025), as Full-Stack & AI Lead for an AI-powered predictive heat-stroke prevention wearable; authored complete patent Invention Disclosure Form (Annexure-1)
+- 4th among 200+ teams - university-level hackathon
+- Co-organizer, CHAKRAVYUH - national cybersecurity CTF at LPU (2025); managed full technical infrastructure
 
 ## References
-- [NAME], [TITLE], [COMPANY] ([EMAIL], [PHONE])
-
-More references available upon request.
+Available upon request.

@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Diwaker Pandey
 
 <!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+<!-- Filled manually from resume. Items marked TODO need your input. -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Diwaker Pandey, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,79 +13,91 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Diwaker Pandey
+- **Location:** Phagwara, Punjab, India (TODO: relocation / commute constraints, remote preference)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | English | TODO (professional working proficiency?) |
+  | Hindi | TODO (native?) |
+  <!-- Every language you work in professionally, with your level. An undeclared language is a
+  hard deal-breaker if a posting requires it. See 04-job-evaluation.md's Language Gate. -->
+- **CV language:** English
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** B.Tech CSE graduate (LPU, Jun 2026), actively seeking full-time SDE, Full-Stack, and AI Engineer roles
+- **LinkedIn headline:** "Full-Stack Developer • AI-Integrated Applications • MERN & Next.js" (TODO: replace if your actual LinkedIn headline differs)
+- **Contact:** diwakerp050@gmail.com | +91 78708 71950
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **B.Tech in Computer Science & Engineering** (Aug 2023 - Jun 2026) - Lovely Professional University, Phagwara, Punjab
+  - CGPA: 7.24
+  - Topics: DSA, OOP, DBMS, Operating Systems, Computer Networks, System Design
+- Intermediate (PCM), 82% - D.A.V. Public School, Ara (2023)
+- Matriculation, 80.6% - Kendriya Vidyalaya, Coochbehar (2021)
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Full-Stack Web Development Intern** (May 2026 - Aug 2026) - **Unified Mentor**
+  - Built and shipped full-stack features in React, Node.js, and MongoDB across Agile sprints, contributing to on-time delivery every cycle
+  - Designed RESTful APIs with Express.js, JWT-based authentication with role-based access control, and standardized error-handling middleware across staging and production
+  - Optimized MongoDB query performance through compound indexing and aggregation pipelines; reviewed peer code via a Git feature-branch workflow
+
+### Projects
+- **EDITH - Modular Personal AI Agent & Automation System** (Sep 2026) - Python, event-driven architecture, SQLite, provider-agnostic LLM layer
+  - Modular, provider-agnostic AI agent architecture for natural-language interaction, tool execution, memory, and desktop automation
+  - Governed tool-use framework: risk-tiered permissions, input validation, execution limits, sandboxed operations
+  - Layered SQLite memory (working, session, persistent); new LLM providers plug in without restructuring the core
+- **SuppSync - AI Supplement Tracker (PWA)** (May 2026) - Next.js 14, TypeScript, Tailwind CSS, Supabase, Gemini AI - live demo
+  - Production-grade AI PWA (App Router) for supplement tracking, adherence analytics, personalized health goals
+  - Supabase (PostgreSQL, Auth, Realtime) for multi-user data and cross-device sync; Gemini recommendation engine; offline-first service worker with Web Push reminders
+- **CivicPulse - AI-Powered Smart City & Grievance Portal** (Feb 2026) - React, Node.js, Express.js, MongoDB, Gemini AI - live demo
+  - Full-stack MERN civic platform: municipal issue reporting, real-time authority tracking, multi-role users, status-resolution workflows
+  - Gemini AI for NLP complaint categorization and severity flagging, automating manual triage
+  - Voice-to-text reporting (Web Speech API, English/Hindi), Leaflet.js maps, Recharts admin dashboard; deployed on Vercel with CI/CD
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** JavaScript (ES2023), TypeScript, React 18/19, Next.js 14/15, Node.js, Express.js, MongoDB, Tailwind CSS
+- **Secondary:** Python, Java, C++, C, PHP, PostgreSQL (Supabase), MySQL, Firestore, SQLite, MS SQL Server, WebSockets, Firebase, Vite, PWA
+- **Domain:** AI-integrated web applications (Gemini AI, GenKit), AI agent runtimes and governed tool use, REST API design, JWT/RBAC auth, DSA (200+ problems solved), system design fundamentals
+- **Software:** Git, GitHub, Postman, Google Cloud, Supabase Edge, Vercel, Netlify
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Computer Communications** - University of Colorado - 2024
+- **Hardware & Operating Systems** - IBM - 2024
+- **Computer Networking** - Google - 2024
+- **SQL (Intermediate)** - HackerRank - 2024
+- **DSA (Java)** - Cipher Schools - 2025
+- **Cloud Computing** - NPTEL - 2025
+- **Engineering Communication** - Rice University - 2026
+  <!-- TODO: add hours per certification if you want them on the CV -->
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- None
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- Ranked 101 of 400 teams - Smart India Hackathon (2025), as Full-Stack & AI Lead for an AI-powered predictive heat-stroke prevention wearable; authored the complete patent Invention Disclosure Form (Annexure-1)
+- 4th among 200+ teams - university-level hackathon
+- Co-organizer, CHAKRAVYUH - national cybersecurity CTF at LPU (2025); managed full technical infrastructure
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+<!-- TODO: add PI / DISC / MBTI results or a short self-assessment -->
+- **[TRAIT_1]** - TODO
+- **[TRAIT_2]** - TODO
+- **Strengths:** TODO (suggested from resume: ships end-to-end, leads technical teams under hackathon pressure)
+- **Growth areas:** TODO
+- **Thrives in:** TODO
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building AI-integrated applications that ship to production (Gemini AI, agent runtimes, governed tool use)
+- Full-stack product engineering (MERN, Next.js, Supabase)
+- TODO: add more
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- AI / LLM product companies: TODO example companies
+- Product startups and SaaS (full-stack roles): TODO example companies
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- TODO (e.g. minimum salary, on-site only, relocation limits, unwanted tech stacks)
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
@@ -141,7 +153,7 @@ Both documents MUST be compiled and visually inspected via the Read tool on the 
 
 ### ATS & keyword verification (CV)
 ATS parsers read the PDF's embedded text layer, not the rendered page. Extract it with `python3 tools/verify_pdf.py cv/main_<company>_<role>.pdf --dump-text cv/main_<company>_<role>.txt` (pypdf, then `pdftotext -layout -enc UTF-8`) and verify what a parser sees. If both extractors are missing, skip the parseability items with a warning and check keyword coverage from the visual PDF read instead.
-- [ ] CV text layer extracts cleanly - no `(cid:*)` markers, `�` replacement characters, or text visible in the PDF but absent from the extraction
+- [ ] CV text layer extracts cleanly - no `(cid:*)` markers, `` replacement characters, or text visible in the PDF but absent from the extraction
 - [ ] Email and phone appear as **literal text** in the extraction (icon-glyph noise like `MOBILE-ALT`/`Envelope` is harmless, but a contact detail carried only by an icon or hyperlink is invisible to ATS)
 - [ ] Reading order of the extracted text matches the visual order (single-column stock template is safe; multi-column custom templates are where this breaks)
 - [ ] Posting keywords covered or honestly absent - synonym-only matches tightened to the posting's exact term where truthfully applicable, keywords the profile genuinely supports added to experience bullets, genuine gaps left visible and **never stuffed**
