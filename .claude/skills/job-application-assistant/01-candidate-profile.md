@@ -25,8 +25,8 @@ framework_version: 1.1.1
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
 | B.Tech in Computer Science & Engineering | Aug 2023 - Jun 2026 | Lovely Professional University, Phagwara, Punjab | CGPA: 7.24; DSA, OOP, DBMS, Operating Systems, Computer Networks, System Design |
-| Intermediate (PCM) | 2023 | D.A.V. Public School, Ara | 82% |
-| Matriculation | 2021 | Kendriya Vidyalaya, Coochbehar | 80.6% |
+| Intermediate (PCM) | 2023 | D.A.V. Public School, Ara | 68% |
+| Matriculation | 2021 | Kendriya Vidyalaya, Coochbehar | 77% |
 
 ## Professional Experience
 

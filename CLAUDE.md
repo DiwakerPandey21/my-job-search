@@ -33,8 +33,8 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **B.Tech in Computer Science & Engineering** (Aug 2023 - Jun 2026) - Lovely Professional University, Phagwara, Punjab
   - CGPA: 7.24
   - Topics: DSA, OOP, DBMS, Operating Systems, Computer Networks, System Design
-- Intermediate (PCM), 82% - D.A.V. Public School, Ara (2023)
-- Matriculation, 80.6% - Kendriya Vidyalaya, Coochbehar (2021)
+- Intermediate (PCM), 68% - D.A.V. Public School, Ara (2023)
+- Matriculation, 77% - Kendriya Vidyalaya, Coochbehar (2021)
 
 ### Professional Experience
 - **Full-Stack Web Development Intern** (May 2026 - Aug 2026) - **Unified Mentor**
